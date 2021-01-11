@@ -1,0 +1,8 @@
+/* mengatur tampilan tombol entah itu dari warna background, warna teks, border, posisi, dan lain-lain */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
